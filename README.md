@@ -1,4 +1,4 @@
 Card_Matching
 =============
 
-Python Card Matching using graphics.py
+This program is a simple Python Card Matching Game using graphics.py to draw and undraw matched cards. 
